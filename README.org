@@ -1,0 +1,10 @@
+* xarray
+
+A generalized interface for array-like objects with views
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/blindglobe/xarray.git   |
+| commit  | 1570bf9  |
+| systems | xarray |
+|---------+-------------------------------------------|
+
